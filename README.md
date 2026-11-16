@@ -6,6 +6,8 @@ system are simulated (`src/fakes.ts`). Design rationale and trade-offs: [DESIGN.
 
 TypeScript, zero runtime dependencies (dev only: typescript, vitest, tsx).
 
+![design](image.png)
+
 ## Setup
 
 Requires Node.js 22.12+ (or 24+) and npm.
